@@ -9,7 +9,7 @@ In the analysis of PyCity School District I found that the average budget for Pu
 
 The average reading and math scores were broken down by grade to compare between Charter and Public schools as well. It was found that average math scores were higher in Charter schools than Public schools for grades 9-11 (with the exception of 12th grade where the Public school score was higher). 
 
-![avg_math_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_math_by_school.png)
+
 
 Average reading scores were higher in Public schools for grades 9, 10 and 12 (with the exception of 11th grade where the Charter school score was higher). 
 
@@ -20,5 +20,7 @@ Analysis of the total number of students was also done and shows that the three 
 Further comparing Charter and Public schools, we can look at the average math and reading scores broken down by each school. The highest average reading score was 76.0 from three schools: Green High School (Charter), Bowers High School (Public) and Turner High School (Public). 
 
 The highest average math score was 69.0 from Dixon High School (Charter).
+
+![avg_math_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_math_by_school.png)
 
 Additional analysis that would be worthwhile could look at student count vs school type and further into the distribution of students in each grade. This could be beneficial to see if a difference in class sizes correlate to better or worse reading/math scores. We could also look at the student count compared to funding per school to see if greater resources/funding per student has any correlation to better test scores. 
