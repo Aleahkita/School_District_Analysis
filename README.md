@@ -13,7 +13,7 @@ The average reading and math scores were broken down by grade to compare between
 
 Average reading scores were higher in Public schools for grades 9, 10 and 12 (with the exception of 11th grade where the Charter school score was higher). 
 
-![read_by_type](
+![read_by_type](https://github.com/Aleahkita/School_District_Analysis/blob/main/read_by_type.png)
 
 Analysis of the total number of students was also done and shows that the three schools with the highest student count are all Charter schools as follows: Montgomery High School (2,038), Green High School (1,961) and Dixon High School (1583)). The three schools with the lowest student count were Odonnell High School (Public:459), Campbell High School (Charter:407) and Chang High School (Charter:171).
 
@@ -24,5 +24,6 @@ Further comparing Charter and Public schools, we can look at the average math an
 The highest average math score was 69.0 from Dixon High School (Charter).
 
 ![avg_math_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_math_by_school.png)
+
 
 Additional analysis that would be worthwhile could look at student count vs school type and further into the distribution of students in each grade. This could be beneficial to see if a difference in class sizes correlate to better or worse reading/math scores. We could also look at the student count compared to funding per school to see if greater resources/funding per student has any correlation to better test scores. 
