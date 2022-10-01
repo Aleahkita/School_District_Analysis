@@ -1,11 +1,11 @@
 # School_District_Analysis
 
-This project aimed to analyze data on PyCity School District's student funding and students' standardized test scores. A variety of data was collected on 6 Charter schools and 9 Public schools including student count, grade, reading/math scores, and school budget. A goal of this project was to identify trends and patterns in reading and math testing performance.
+This project aimed to analyze data on PyCity School District's student funding and students' standardized test scores. A variety of data was collected on six Charter schools and nine Public schools including student count, grade, reading/math scores, and school budget. A goal of this project was to identify trends and patterns in reading and math testing performance.
 
 
 ## Analysis
 
-In the analysis of PyCity School District I found that the average budget for Public schools was higher than that of Charter schools. Charter schools had an average budget $872,625.656236 and Public schools had an average budget of $911,195.558251. 
+In the analysis of PyCity School District I found that the average budget for Public schools was higher than that of Charter schools. Charter schools had an average budget $872,625.66 and Public schools had an average budget of $911,195.56 (values rounded to the nearest hundredth). 
 
 The average reading and math scores were broken down by grade to compare between Charter and Public schools as well. It was found that average math scores were higher in Charter schools than Public schools for grades 9-11 (with the exception of 12th grade where the Public school score was higher). 
 
