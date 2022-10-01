@@ -9,11 +9,11 @@ In the analysis of PyCity School District I found that the average budget for Pu
 
 The average reading and math scores were broken down by grade to compare between Charter and Public schools as well. It was found that average math scores were higher in Charter schools than Public schools for grades 9-11 (with the exception of 12th grade where the Public school score was higher). 
 
-
+![math_by_type](https://github.com/Aleahkita/School_District_Analysis/blob/main/math_by_type.png)
 
 Average reading scores were higher in Public schools for grades 9, 10 and 12 (with the exception of 11th grade where the Charter school score was higher). 
 
-
+![read_by_type](
 
 Analysis of the total number of students was also done and shows that the three schools with the highest student count are all Charter schools as follows: Montgomery High School (2,038), Green High School (1,961) and Dixon High School (1583)). The three schools with the lowest student count were Odonnell High School (Public:459), Campbell High School (Charter:407) and Chang High School (Charter:171).
 
