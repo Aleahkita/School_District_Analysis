@@ -19,6 +19,8 @@ Analysis of the total number of students was also done and shows that the three 
 
 Further comparing Charter and Public schools, we can look at the average math and reading scores broken down by each school. The highest average reading score was 76.0 from three schools: Green High School (Charter), Bowers High School (Public) and Turner High School (Public). 
 
+![avg_read_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_read_by_school.png)
+
 The highest average math score was 69.0 from Dixon High School (Charter).
 
 ![avg_math_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_math_by_school.png)
