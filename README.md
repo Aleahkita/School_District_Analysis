@@ -17,6 +17,8 @@ Average reading scores were higher in Public schools for grades 9, 10 and 12 (wi
 
 Analysis of the total number of students was also done and shows that the three schools with the highest student count are all Charter schools as follows: Montgomery High School (2,038), Green High School (1,961) and Dixon High School (1583)). The three schools with the lowest student count were Odonnell High School (Public:459), Campbell High School (Charter:407) and Chang High School (Charter:171).
 
+![student_count_by_type](https://github.com/Aleahkita/School_District_Analysis/blob/main/student_count_by_type.png)
+
 Further comparing Charter and Public schools, we can look at the average math and reading scores broken down by each school. The highest average reading score was 76.0 from three schools: Green High School (Charter), Bowers High School (Public) and Turner High School (Public). 
 
 ![avg_read_by_school](https://github.com/Aleahkita/School_District_Analysis/blob/main/avg_read_by_school.png)
